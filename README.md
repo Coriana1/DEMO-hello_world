@@ -8,7 +8,7 @@ Git -> Keeps a history of changes, multiple developers can work on the same code
         ~ Message = Gives a snapshot a label
         
 Github -> You code in cloud that you can share code with others
-  Git is used to help you manage your team work, tracks versions and keeps them separte until you add them in!
+  Git is used to help you manage your team work, tracks versions and keeps them separate until you add them in!
   
   * Git + GitHub = Teams can work on the same file without messing on another up, while also keeping up with the latest versions, and can sync your computer with what is online. 
    
