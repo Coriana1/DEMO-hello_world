@@ -1,33 +1,59 @@
+
+
 body {
-    background-color:tomato;
+    background-color: purple;
+    margin: 2;
+    padding: 2;
+    font-family:'Times New Roman', Times, serif;
 }
 
-img {
-    height: 400px;
-    border: 7px solid white;
+header{
+    background-color: rgb(red, green, blue);
+    height: 110 px;
+}
+h1{
+    float: center;
+    margin-left: 25px;
+    margin-right: 30px;
+    color: solid black;
+    text-shadow: 10px 10px 10px red;
+}
+
+ul{
+    padding: 0;
+    margin:auto;
+}
+#image-one{
+    background-color: orange;
+    height: 100px;
+    border: 7px orangered;
 }
 
 #images{
-    height: 100px;
-    border: 7px solid white;
+    background-color: orange
+    height: 50px;
+    border: 7px orangered;
 }
 
-border{
-    border: 7px solid black;
-    margin-left: 10px;
-    margin-right: 10px;
+img{
+    height: 200px;
+    backgorund-color: orange;
+    border: 10px rgb(red, green, blue);
 }
+
 a{
     text-decoration: none;
-}
-
-.cakes{
-    background-color: orange;
-    width: 50%;
-    display: inline;
 }
 
 section {
     text-align: center;
     align-items: center;
+}
+
+article{
+    text-align: left;
+    border: 8px purple;
+}
+article img{
+    background-color: blueviolet;
 }
